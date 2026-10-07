@@ -1,0 +1,10 @@
+/* External CSS */
+body {
+font-family: Arial, sans-serif;
+background-color: #d4cdbe;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, "Times New Roman", serif;
+    color: #8b0000;
+}
